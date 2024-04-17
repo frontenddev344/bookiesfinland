@@ -152,7 +152,25 @@ nav {
 }
 
 /* home page end */
+/* visit section css start */
+.visit_banner {
+    height: 400px;
+    background-image: url(../img/hotelbanner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
 
+.visit_banner::before {
+    position: absolute;
+    content: '';
+    background: #000000a8;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+/* visit section css end */
 /* /cookie start/ */
 .cookie-alert {
     position: fixed;
@@ -201,6 +219,7 @@ a.btn.btn-primary.setting-cookies:hover {
 
 /* 
 /cookie end/ */
+
 /* footer styling */
 .footer {
     background-color: var(--primary-color);

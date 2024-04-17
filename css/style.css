@@ -491,6 +491,7 @@ a.btn.btn-primary.setting-cookies:hover {
 .terms_conditons ul li {
     list-style-type: disc;
     margin-left: 15px;
+    font-weight: 400;
 }
 
 .terms_conditons ol li {

@@ -176,6 +176,10 @@ nav {
     text-align: center;
 }
 
+.below_box p {
+    text-align: left;
+}
+
 /* visit section css end */
 /* /cookie start/ */
 .cookie-alert {

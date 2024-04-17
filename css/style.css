@@ -184,6 +184,10 @@ nav {
     text-align: left;
 }
 
+.below_box {
+    margin: 40px 0;
+}
+
 /* visit section css end */
 /* /cookie start/ */
 .cookie-alert {

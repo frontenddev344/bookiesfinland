@@ -152,7 +152,18 @@ nav {
 }
 
 .home_detail {
+    text-align: center;
     padding: 80px 0;
+}
+
+.home_gallery img {
+    max-width: 350px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.home_detail p {
+    margin-bottom: 30px;
 }
 
 /* home page end */

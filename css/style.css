@@ -314,7 +314,8 @@ nav {
 .camping_inner {
     margin-bottom: 40px;
 }
-.wearin_inner{
+
+.wearin_inner {
     text-align: left;
     padding: 20px;
     border: 1px solid var(--secondary-color);
@@ -324,6 +325,11 @@ nav {
     background: var(--secondary-color);
     color: white;
 }
+
+.wear_inner {
+    margin-bottom: 40px;
+}
+
 /* travel styling end */
 /* /cookie start/ */
 .cookie-alert {

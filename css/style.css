@@ -151,6 +151,10 @@ nav {
     text-transform: uppercase;
 }
 
+.home_detail {
+    padding: 80px 0;
+}
+
 /* home page end */
 /* hotel styling start */
 .hotel_banner {
@@ -290,13 +294,16 @@ nav {
     box-shadow: 1px 2px 3px;
     height: 100%;
 }
+
 .travel_inner h3 {
     color: var(--secondary-color);
     margin-top: 10px;
 }
+
 .travel_inner span {
     color: #000;
 }
+
 .heading_travel {
     text-align: center;
 }

@@ -181,6 +181,10 @@ nav {
     text-align: center;
 }
 
+.heading_hotels h2 {
+    margin-top: 60px;
+}
+
 .detail_inner {
     text-align: left;
     height: 100%;
@@ -214,7 +218,7 @@ nav {
 }
 
 .detail_inner h3 {
-    color: var(--primary-color);
+    color: var(--secondary-color);
     margin: 15px 0;
 }
 

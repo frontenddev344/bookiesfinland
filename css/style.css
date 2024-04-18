@@ -294,6 +294,9 @@ nav {
     color: var(--secondary-color);
     margin-top: 10px;
 }
+.travel_inner span {
+    color: #000;
+}
 .heading_travel {
     text-align: center;
 }

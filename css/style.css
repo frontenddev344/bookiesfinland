@@ -330,6 +330,14 @@ nav {
     margin-bottom: 40px;
 }
 
+.wearin_finland .row {
+    justify-content: center;
+}
+
+.camping_finland .row {
+    justify-content: center;
+}
+
 /* travel styling end */
 /* /cookie start/ */
 .cookie-alert {

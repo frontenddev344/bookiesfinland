@@ -176,13 +176,17 @@ nav {
     padding: 80px 0;
 }
 
+.footer_above {
+    padding: 80px 0;
+    text-align: center;
+}
+
 .detail_inner {
     text-align: left;
     height: 100%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 5px;
     padding: 20px 15px;
-    border-bottom: 4px solid #786d5f;
     background-color: #fff;
     transition: all 0.5s;
 }

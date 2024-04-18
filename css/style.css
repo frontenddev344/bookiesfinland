@@ -314,7 +314,16 @@ nav {
 .camping_inner {
     margin-bottom: 40px;
 }
-
+.wearin_inner{
+    text-align: left;
+    padding: 20px;
+    border: 1px solid var(--secondary-color);
+    border-radius: 10px;
+    height: 100%;
+    box-shadow: 2px 3px 2px #000;
+    background: var(--secondary-color);
+    color: white;
+}
 /* travel styling end */
 /* /cookie start/ */
 .cookie-alert {

@@ -63,7 +63,7 @@ h2 {
 }
 
 .active {
-    color: var(--main-color);
+    color: var(--secondary-color);
     border-bottom: 2px solid;
 }
 

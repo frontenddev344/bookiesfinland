@@ -444,7 +444,7 @@ a.btn.btn-primary.setting-cookies:hover {
     display: block;
     height: 2px;
     width: 40px;
-    background: #fff;
+    background: var(--secondary-color);
     margin-top: 20px;
 }
 

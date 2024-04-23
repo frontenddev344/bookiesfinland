@@ -634,6 +634,10 @@ a.btn.btn-primary.setting-cookies:hover {
     z-index: -1;
 }
 
+section.privacy-policy h3 {
+    margin: 10px 0;
+}
+
 .privacy-policy {
     padding: 40px 0;
 }

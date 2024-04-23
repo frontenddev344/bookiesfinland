@@ -679,7 +679,9 @@ section.privacy-policy h3 {
     background-color: rgba(0, 0, 0, 0.55);
     z-index: -1;
 }
-
+section.terms_conditons h3 {
+margin: 10px 0;
+}
 .terms_conditons {
     padding: 40px 0;
 }

@@ -183,6 +183,9 @@
     .below_box .below {
         height: 400px;
     }
+    .below_box {
+        margin: 20px 0;
+    }
 }
 
 @media screen and (max-width:575px) {

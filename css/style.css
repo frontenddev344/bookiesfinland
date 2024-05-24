@@ -63,7 +63,7 @@ h2 {
 }
 
 .active {
-    color: var(--secondary-color);
+    color: var(--main-color) !important;
     border-bottom: 2px solid;
 }
 
@@ -102,7 +102,9 @@ nav {
     line-height: normal;
     text-transform: uppercase;
 }
-
+.navlink ul li a:hover {
+    color: var(--main-color);
+}
 .open {
     display: none;
 }

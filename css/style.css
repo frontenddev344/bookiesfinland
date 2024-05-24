@@ -658,7 +658,9 @@ section.privacy-policy h3 {
     color: var(--main-color);
     text-transform: uppercase;
 }
-
+.content-wrap p{
+    margin-bottom: 10px;
+}
 /* privacy styling end */
 /* terms styling start */
 .terms__section {

@@ -102,9 +102,11 @@ nav {
     line-height: normal;
     text-transform: uppercase;
 }
+
 .navlink ul li a:hover {
     color: var(--main-color);
 }
+
 .open {
     display: none;
 }
@@ -162,6 +164,19 @@ nav {
     max-width: 350px;
     height: 250px;
     object-fit: cover;
+    transition: all .3s linear;
+}
+
+.home_gallery img:hover {
+    transform: scale(1.1);
+}
+
+.home_gallery {
+    overflow: hidden;
+    height: 250px;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
 }
 
 .home_detail p {
@@ -236,7 +251,8 @@ nav {
     color: var(--secondary-color);
     margin: 15px 0;
 }
-.detail_inner p{
+
+.detail_inner p {
     margin-bottom: 10px;
 }
 
@@ -267,9 +283,11 @@ nav {
     text-align: center;
     background-color: #efeff8;
 }
+
 .below_inner p {
     margin-bottom: 10px;
 }
+
 .below_box p {
     text-align: left;
 }
@@ -330,9 +348,11 @@ nav {
     text-align: center;
     background-color: #efeff8;
 }
-.text p{
+
+.text p {
     margin-bottom: 10px;
 }
+
 .camping_finland {
     padding: 80px 0;
     text-align: center;
@@ -661,9 +681,11 @@ section.privacy-policy h3 {
     color: var(--main-color);
     text-transform: uppercase;
 }
-.content-wrap p{
+
+.content-wrap p {
     margin-bottom: 10px;
 }
+
 /* privacy styling end */
 /* terms styling start */
 .terms__section {
@@ -691,9 +713,11 @@ section.privacy-policy h3 {
     background-color: rgba(0, 0, 0, 0.55);
     z-index: -1;
 }
+
 section.terms_conditons h3 {
-margin: 10px 0;
+    margin: 10px 0;
 }
+
 .terms_conditons {
     padding: 40px 0;
 }

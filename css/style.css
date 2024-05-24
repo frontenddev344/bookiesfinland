@@ -283,7 +283,9 @@ nav {
     text-align: center;
     background-color: #efeff8;
 }
-
+.below_banner .row {
+    justify-content: center;
+}
 .below_inner p {
     margin-bottom: 10px;
 }
@@ -299,7 +301,9 @@ nav {
 .below_box {
     margin: 40px 0;
 }
-
+.below_box img {
+    margin-bottom: 10px;
+}
 /* visit section css end */
 /* travel styling start */
 .travel_banner {

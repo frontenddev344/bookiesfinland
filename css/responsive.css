@@ -122,6 +122,9 @@
     .travel_detail {
         padding: 40px 0;
     }
+    .heading_hotels h2 {
+        margin-top: 30px;
+    }
 }
 
 @media screen and (max-width:767px) {

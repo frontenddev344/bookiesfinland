@@ -50,7 +50,7 @@
     }
 
     .navlink ul li a {
-        color: #fff;
+        color: var(--secondary-color);
     }
 
     .navlink ul li {

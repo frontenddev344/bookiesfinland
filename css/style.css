@@ -234,7 +234,9 @@ nav {
     color: var(--secondary-color);
     margin: 15px 0;
 }
-
+.detail_inner p{
+    margin-bottom: 10px;
+}
 
 
 /* hotel detail styling end */

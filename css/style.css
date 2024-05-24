@@ -263,7 +263,9 @@ nav {
     text-align: center;
     background-color: #efeff8;
 }
-
+.below_inner p {
+    margin-bottom: 10px;
+}
 .below_box p {
     text-align: left;
 }

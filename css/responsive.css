@@ -102,7 +102,7 @@
     .home_gallery {
         margin-bottom: 10px;
     }
-    
+
     .home_gallery img {
         max-width: 100%;
     }
@@ -175,6 +175,13 @@
     }
     .below_banner {
         padding: 40px 0;
+    }
+    .below_box img {
+        width: 100%;
+        height: 400px;
+    }
+    .below_box .below {
+        height: 400px;
     }
 }
 

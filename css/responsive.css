@@ -115,6 +115,10 @@
     h2 {
         font-size: 28px;
     }
+    .camping_finland {
+        padding: 40px 0;
+        
+    }
 }
 
 @media screen and (max-width:767px) {

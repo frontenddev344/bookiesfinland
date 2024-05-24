@@ -328,7 +328,9 @@ nav {
     text-align: center;
     background-color: #efeff8;
 }
-
+.text p{
+    margin-bottom: 10px;
+}
 .camping_finland {
     padding: 80px 0;
     text-align: center;

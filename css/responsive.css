@@ -122,6 +122,9 @@
     .heading_hotels h2 {
         margin-top: 30px;
     }
+    .footer_above {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width:767px) {

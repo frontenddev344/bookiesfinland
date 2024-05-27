@@ -311,7 +311,7 @@ a.button_main:hover {
     overflow: hidden;
     height: 400px;
     display: block;
-    width: 100%;
+    width: 50%;
     margin-bottom: 10px;
 }
 
@@ -358,6 +358,7 @@ a.button_main:hover {
 .below_box {
     margin: 40px 0;
     display: flex;
+    width: 100%;
 }
 
 .below_details {
@@ -366,6 +367,7 @@ a.button_main:hover {
     justify-content: center;
     gap: 10px;
     margin-left: 20px;
+    width: 50%;
 }
 
 .below_box img {

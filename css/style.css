@@ -233,7 +233,7 @@ a.button_main:hover {
     height: 100%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 5px;
-    padding: 20px 15px;
+    padding: 30px 20px;
     background-color: #fff;
     transition: all 0.5s;
 }
@@ -266,7 +266,7 @@ a.button_main:hover {
 }
 
 .detail_inner p {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 

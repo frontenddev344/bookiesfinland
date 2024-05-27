@@ -213,6 +213,7 @@ a.button_main {
     color: #fff;
     font-weight: 700;
 }
+
 a.button_main:hover {
     background: transparent;
     border: 1px solid var(--secondary-color);
@@ -336,9 +337,14 @@ a.button_main:hover {
     margin: 40px 0;
     display: flex;
 }
-.below_details{
+
+.below_details {
     display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 20px;
 }
+
 .below_box img {
     margin-bottom: 10px;
 }

@@ -6,7 +6,7 @@
 
     .open {
         display: block;
-        color:var(--secondary-color);
+        color: var(--secondary-color);
         font-size: 30px;
     }
 
@@ -92,13 +92,16 @@
     .blog_img img {
         width: 100%;
     }
+
     .hotel_inner img {
         width: 100%;
     }
+
     .travel_card img {
         height: 400px;
         object-fit: cover;
     }
+
     .home_gallery {
         margin-bottom: 10px;
     }
@@ -106,38 +109,47 @@
     .home_gallery img {
         max-width: 100%;
     }
+
     .home_detail {
         padding: 20px 0;
     }
+
     h2 {
         font-size: 28px;
     }
+
     .camping_finland {
         padding: 40px 0;
-        
+
     }
+
     .travel_detail {
         padding: 40px 0;
     }
+
     .heading_hotels h2 {
         margin-top: 30px;
     }
+
     .footer_above {
         padding: 40px 0;
     }
+
     .below_details {
         width: 100%;
+        margin-left: 0;
     }
+
     .below_box .below {
         width: 100%;
 
     }
+
     .below_box {
-       
-        display: ;
+        display: block;
+
     }
-    
-    
+
 }
 
 @media screen and (max-width:767px) {
@@ -178,34 +190,44 @@
     .events_section {
         padding: 40px 0;
     }
+
     .casino_hotel {
         padding: 40px 0;
     }
+
     .cruise_detail {
         padding: 40px 0;
     }
+
     .above_footer {
         padding: 40px 0;
     }
+
     .contact_section {
         padding: 40px 0;
     }
+
     .hotel_inner h2 {
-       font-size: 28px;
+        font-size: 28px;
     }
+
     .hotel_inner img {
         width: 60%;
     }
+
     .below_banner {
         padding: 40px 0;
     }
+
     .below_box img {
         width: 100%;
         height: 300px;
     }
+
     .below_box .below {
         height: 300px;
     }
+
     .below_box {
         margin: 20px 0;
     }
@@ -232,6 +254,7 @@
     .banner_box h1 {
         font-size: 30px;
     }
+
     .travel_card img {
         height: auto;
     }

@@ -358,7 +358,6 @@ a.button_main:hover {
 .below_box {
     margin: 40px 0;
     display: flex;
-    flex-wrap: wrap;
     width: 100%;
 }
 

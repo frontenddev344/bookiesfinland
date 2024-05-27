@@ -125,6 +125,15 @@
     .footer_above {
         padding: 40px 0;
     }
+    .below_details {
+        width: 100%;
+    }
+    .below_box .below {
+        width: 100%;
+
+    }
+    
+    
 }
 
 @media screen and (max-width:767px) {

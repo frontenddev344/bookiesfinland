@@ -70,6 +70,8 @@ h2 {
 /* navbar styling  */
 nav {
     background-color: var(--primary-color);
+    position: relative;
+    z-index: 999;
 }
 
 .logo img {

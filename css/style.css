@@ -91,6 +91,7 @@ nav {
 .navlink ul li {
     font-size: 18px;
     margin: 0 25px 0 0;
+    position: relative;
 
 }
 
@@ -115,6 +116,25 @@ nav {
     display: none;
 }
 
+
+.navlink ul li:hover ul.subnav {
+    opacity: 1;
+    visibility: visible;
+ transform: translateY(0);
+}
+
+ul.subnav {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    width: 240px;
+    background: red;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s linear;
+    transform: translateY(50px);
+}
 /* navbar stylng end */
 /* home page start */
 .home_banner {

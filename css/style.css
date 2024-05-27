@@ -207,7 +207,7 @@ nav {
 .hotel_detail {}
 
 a.button_main {
-    background: var(--primary-color);
+    background: var(--secondary-color);
     padding: 10px 40px 10px 40px;
     border: 1px solid var(--primary-color);
     color: #fff;
@@ -215,8 +215,8 @@ a.button_main {
 }
 a.button_main:hover {
     background: transparent;
-    border: 1px solid var(--primary-color);
-    color: var(--primary-color);
+    border: 1px solid var(--secondary-color);
+    color: var(--secondary-color);
 }
 
 .footer_above {

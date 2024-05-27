@@ -206,6 +206,19 @@ nav {
 /* hotel detail styling start */
 .hotel_detail {}
 
+a.button_main {
+    background: var(--primary-color);
+    padding: 10px 40px 10px 40px;
+    border: 1px solid var(--primary-color);
+    color: #fff;
+    font-weight: 700;
+}
+a.button_main:hover {
+    background: transparent;
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
 .footer_above {
     padding: 80px 0;
     text-align: center;

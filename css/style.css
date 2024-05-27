@@ -341,7 +341,8 @@ a.button_main:hover {
 .below_details {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 10px;
     margin-left: 20px;
 }
 

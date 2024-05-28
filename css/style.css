@@ -122,7 +122,7 @@ nav {
 .navlink ul li:hover ul.subnav {
     opacity: 1;
     visibility: visible;
- transform: translateY(0);
+    transform: translateY(0);
 }
 
 ul.subnav {
@@ -131,7 +131,7 @@ ul.subnav {
     right: 0;
     top: 100%;
     width: 240px;
-    background:var(--primary-color);
+    background: var(--primary-color);
     color: var(--secondary-color);
     padding: 20px;
     opacity: 0;
@@ -139,6 +139,7 @@ ul.subnav {
     transition: all 0.2s linear;
     transform: translateY(50px);
 }
+
 /* navbar stylng end */
 /* home page start */
 .home_banner {
@@ -370,6 +371,12 @@ a.button_main:hover {
     gap: 10px;
     margin-left: 20px;
     width: 50%;
+}
+
+.below_details ul li {
+    text-align: left;
+    list-style: disc;
+    margin-left: 20px;
 }
 
 .below_box img {

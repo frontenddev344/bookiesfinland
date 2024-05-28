@@ -131,7 +131,8 @@ ul.subnav {
     right: 0;
     top: 100%;
     width: 240px;
-    background: red;
+    background:var(--primary-color);
+    padding: 20px;
     opacity: 0;
     visibility: hidden;
     transition: all 0.2s linear;

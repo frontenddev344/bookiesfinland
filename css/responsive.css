@@ -4,6 +4,20 @@
 
     }
 
+    ul.subnav {
+        display: block;
+        position: absolute;
+        right: -30px;
+        top: 100%;
+        width: 240px;
+        padding: 20px;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.2s linear;
+        transform: translateY(50px);
+        z-index: 99;
+    }
+
     .open {
         display: block;
         color: var(--secondary-color);

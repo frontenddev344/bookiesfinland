@@ -140,6 +140,28 @@ ul.subnav {
     transform: translateY(50px);
 }
 
+.dropbtn {
+    background-color: transparent;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--white);
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: inherit !important;
+    position: relative;
+    display: inline-block;
+}
+
+.dropbtn i {
+    margin-left: 8px;
+    color: var(--secondary-color);
+}
+
 /* navbar stylng end */
 /* home page start */
 .home_banner {

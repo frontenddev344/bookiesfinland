@@ -12,12 +12,18 @@
         width: 240px;
         padding: 20px;
         opacity: 0;
+        background: var(--primary-color);
         visibility: hidden;
         transition: all 0.2s linear;
         transform: translateY(50px);
         z-index: 99;
     }
-
+    
+    .dropbtn {
+       
+       padding: 0px; 
+        
+    }
     .open {
         display: block;
         color: var(--secondary-color);

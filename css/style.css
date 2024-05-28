@@ -132,6 +132,7 @@ ul.subnav {
     top: 100%;
     width: 240px;
     background:var(--primary-color);
+    color: var(--secondary-color);
     padding: 20px;
     opacity: 0;
     visibility: hidden;
